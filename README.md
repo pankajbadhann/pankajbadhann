@@ -13,12 +13,11 @@
 - Completed schooling under PSEB (8th, 10th, 12th)
 
 ![Profile views](https://komarev.com/ghpvc/?username=kingbadhan&color=blue)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kingbadhan.kingbadhan)
 
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingbadhan&show_icons=true&theme=radical)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=kingbadhan&theme=onedark)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kingbadhan.kingbadhan)
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kingbadhan)
 

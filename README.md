@@ -1,6 +1,9 @@
 ### 👋 Hi there, I'm Pankaj Badhan
 A beginner programmer with a passion for web development and software developer. I'm excited to share my journey with you as I learn and grow in the world of coding.
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=kingbadhan&color=blue" alt="Profile views" />
+  <img src="https://wakatime.com/badge/user/2a81f74a-671e-4205-af47-61231d181373.svg" alt="Wakatime" />
+</p>
 <p align="center">
   <picture>
     <source 
@@ -24,6 +27,3 @@ A beginner programmer with a passion for web development and software developer.
     />
   </picture>
 </p>
-
-![Profile views](https://komarev.com/ghpvc/?username=kingbadhan&color=blue)
-[![wakatime](https://wakatime.com/badge/user/2a81f74a-671e-4205-af47-61231d181373.svg)](https://wakatime.com/@2a81f74a-671e-4205-af47-61231d181373)

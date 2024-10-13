@@ -5,18 +5,18 @@ A beginner programmer with a passion for web development and software developer.
 <div align="center">
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kingbadhan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajbadhann&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
     media="(prefers-color-scheme: dark)" 
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingbadhan&theme=light&hide_border=true include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajbadhann&theme=light&hide_border=true include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
 </picture>
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=kingbadhan&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
+    srcset="https://github-readme-stats.vercel.app/api?username=pankajbadhann&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
     media="(prefers-color-scheme: dark)" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kingbadhan&theme=light&hide_border=true&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=pankajbadhann&theme=light&hide_border=true&include_all_commits=true&count_private=true" 
     alt="GitHub Stats" 
   />
 </picture>
